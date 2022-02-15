@@ -91,3 +91,18 @@ span {
   text-transform: uppercase;
 }
 
+body {
+  background-color: #f1faf9;
+}
+
+.container {
+  background-color: #fff;
+}
+
+h3 {
+  color: #645cff;
+}
+
+.special-container {
+  background: rgba(0, 0, 0, 0.9);
+}
