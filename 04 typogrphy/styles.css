@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Mr+Dafoe&family=Shizuru&display=swap');
+
+body {
+  font-family: 'Shizuru', cursive;
+}
+h1,
+h2 {
+  font-family: 'Mr Dafoe', cursive;
+  color: rgb(50, 0, 167);
+  font-style: italic;
+  font-size: 4rem;
+  
+}
+
+p {
+  font-size: 2rem;
+  color: rgb(47, 0, 255);
+  font-family: 'Courier New', Courier, monospace;
+}
